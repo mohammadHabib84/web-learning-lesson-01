@@ -38,3 +38,12 @@ footer {
     margin-top: 40px;
     padding: 20px;
 }
+
+#weatherData {
+    margin-top: 15px;
+    line-height: 1.7;
+}
+
+#weatherButton {
+    margin-top: 10px;
+}
